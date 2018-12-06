@@ -2,7 +2,7 @@
 #created by M1ndFl4y
 #important things to do before the scan
 #change the name of the mainfolder to specify the client
-MAINFOLDER="/root/Desktop/KaliPentest/external-pentest"
+MAINFOLDER="/root/Desktop/fision-external"
 
 #example of a valid use of this script
 #./externalenum.sh example.com 127.0.0.1,127.0.0.2,127.0.0.3
