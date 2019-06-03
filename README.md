@@ -1,3 +1,3 @@
-# Simple-Scripts
+# Simplely-Scripts
 
-Simple yet probably handy scripts. 
+Simple scripts for Simple problems.
