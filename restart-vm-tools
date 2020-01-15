@@ -5,3 +5,6 @@ systemctl start run-vmblock\\\\x2dfuse.mount
 systemctl enable run-vmblock\\\\x2dfuse.mount
 sudo vmware-user-suid-wrapper vmtoolsd -n vmusr 2>/dev/null
 sudo vmtoolsd -b /var/run/vmroot 2>/dev/null
+
+# How To Setup Initially:
+# https://kb.vmware.com/s/article/1018414
